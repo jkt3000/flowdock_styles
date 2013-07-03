@@ -1,1 +1,72 @@
-.chat-message { padding: 0 !important;}
+
+.chat-toolbar,
+.inbox-toolbar { 
+  padding: 4px !important; 
+  height: 50px !important;
+}
+
+.chat-message-list,
+.inbox-message-list { top: 50px !important;}
+
+
+/* chat window */
+
+#chat li[class*='message'] { padding: 3px !important }
+
+
+/* inbox */
+
+#avatar-list .user {
+  margin-bottom: 0 !important;
+  margin-right: 3px !important;
+}
+
+.excerpt { color: #888 !important;}
+
+.inbox-message-list .avatar { 
+  width: 40px !important; 
+  height: 40px !important; 
+  margin-right:5px !important;
+}
+.inbox-message-list .avatar .type-icon {
+  width:16px !important;
+  height:16px !important;
+  font-size: 8px;
+}
+
+.inbox-message-list .inbox-message { 
+  padding: 6px 10px 6px 5px !important;
+}
+.inbox-message-list .inbox-message .title { 
+  font-size: 12px !important;
+}
+
+.inbox-message-list .inbox-message .excerpt { 
+  font-size: 12px !important;
+  max-height: 40px !important;  
+  margin-bottom: 4px !important;
+}
+.inbox-message-list .inbox-message .commit { 
+  height: 23px !important;
+}
+
+.inbox-message-list .inbox-message .meta {
+  font-size: 12px !important;
+}
+
+.inbox-message-list .inbox-message .items {
+ font-size: 12px !important; 
+}
+
+.inbox-message-list .inbox-message .timestamp {
+  color: #ccc !important;
+}
+
+
+.inbox-message-list .inbox-message .message-actions {
+  position:absolute !important;
+  top: 10px !important;
+  right: 5px !important;
+  z-index: 1000 !important;
+}
+*/
