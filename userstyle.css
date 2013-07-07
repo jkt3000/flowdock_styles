@@ -65,8 +65,10 @@
 
 .inbox-message-list .inbox-message .message-actions {
   position:absolute !important;
-  top: 10px !important;
-  right: 5px !important;
+  left: 0px !important;
+  bottom: 0px !important;
+  top: auto !important;
+  right: auto !important;
   z-index: 1000 !important;
 }
 */
