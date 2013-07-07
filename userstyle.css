@@ -75,7 +75,7 @@
   position:absolute !important;
   left: 0px !important;
   bottom: 0px !important;
-  top: auto !important;
+  top: 48px !important;
   right: auto !important;
   z-index: 1000 !important;
 }
