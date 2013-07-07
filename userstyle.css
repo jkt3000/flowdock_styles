@@ -13,6 +13,14 @@
 
 #chat li[class*='message'] { padding: 3px !important }
 
+#chat li[class*="message"] .message-author {
+  padding-left: 20px !important;
+}
+
+#chat li[class*="message"] .single-view-link {
+  padding-left:2px !important;
+}
+
 
 /* inbox */
 
