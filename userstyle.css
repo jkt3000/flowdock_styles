@@ -35,7 +35,7 @@
 }
 
 .inbox-message-list .inbox-message { 
-  padding: 6px 10px 6px 5px !important;
+  padding: 5px 0px !important;
 }
 .inbox-message-list .inbox-message .title { 
   font-size: 12px !important;
