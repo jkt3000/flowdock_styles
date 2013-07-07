@@ -71,4 +71,12 @@
   right: auto !important;
   z-index: 1000 !important;
 }
+.inbox-message-list .inbox-message .message-actions button {
+  padding: 0px !important;
+}
+
+.dropdown-menu.pull-right, .pull-right.mentions-dropdown {
+  right: -180px !important;
+  top: 10px !important;
+}
 */
