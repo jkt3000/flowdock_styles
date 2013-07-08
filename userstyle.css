@@ -12,7 +12,7 @@
 /* chat window */
 
 #chat li[class*='message'] { padding: 3px !important }
-
+#chat li[class*='message']:last-child { padding-bottom: 1.538em !important; }
 
 /* inbox */
 
