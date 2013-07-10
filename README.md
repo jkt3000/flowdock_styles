@@ -1,3 +1,7 @@
+# Repo has been moved to https://github.com/Shopify/flowdock_styles
+## Please make changes and PRs that repo.
+
+
 flowdock_styles
 ===============
 
