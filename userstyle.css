@@ -26,6 +26,10 @@
 
 /* inbox */
 
+.inbox-panel, #chat, .flow {
+  float: right !important;
+}
+
 #avatar-list .user {
   margin-bottom: 0 !important;
   margin-right: 3px !important;
